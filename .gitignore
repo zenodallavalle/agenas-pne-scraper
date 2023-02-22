@@ -1,3 +1,6 @@
+# ignore cached version of hospitals
+agenas_pne_scraper/hospitals_cached.csv
+
 # Created by https://www.toptal.com/developers/gitignore/api/python,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,macos
 
