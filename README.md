@@ -8,7 +8,7 @@ A python tool to download data from pne-agenas website.
 
 ## Installation:
 
-`git clone `
+`git clone git@github.com:zenodallavalle/agenas-pne-scraper.git`
 
 ## Usage
 
